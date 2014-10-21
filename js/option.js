@@ -24,4 +24,4 @@ function Playlist($scope) {
     $scope.playlist = chrome.extension.getBackgroundPage().getPlaylist();
 }
 
-
+function Gnu() {}
